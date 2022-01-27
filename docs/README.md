@@ -1,4 +1,3 @@
-# to-do-list
 
 # To-do List
 <h2>:brazil: Português</h2>
