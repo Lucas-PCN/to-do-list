@@ -5,7 +5,7 @@ const botaoLimpador = document.querySelector('#apaga-tudo');
 const botaoRemovedor = document.querySelector('#remover-finalizados');
 const botaoRemoveSelecionados = document.querySelector('#remover-selecionado');
 
-// Adiciona um item à lista
+// Adiciona um item à list
 function addTask() {
   if (!input.value) {
     alert('Nenhuma tarefa adicionada!');
