@@ -12,41 +12,36 @@
         <header>
             <h1>Minha Lista de Tarefas</h1>
         </header>
-        <div id="container-list">
-            <section>
-                <p id = "funcionamento">Clique duas vezes em um item para marcá-lo como completo</p>
-                <br>
-                <div class="painel-superior">
-                    <input type = "text" placeholder="Nova tarefa" maxlength="40" id = "texto-tarefa">
-                    <div id="criar-tarefa-completo" class="button-capsule">
-                        <button id = "criar-tarefa" class="positivo">Adicionar tarefa à lista</button>
-                    </div>
+        <div id="mainContainer">
+            <p id = "funcionamento">Clique duas vezes em um item para marcá-lo como completo</p>
+            <br>
+            <div class="top">
+                <input type = "text" placeholder="Nova tarefa" maxlength="40" id = "texto-tarefa">
+                <div id="criar-tarefa-completo">
+                    <button id = "criar-tarefa" class="dark">Adicionar tarefa à lista</button>
                 </div>
-                <ol id = "lista-tarefas"></ol>
-                <br>
-                <div class="painel-inferior">
-                    <div class="container-other-buttons">
-                        <div class="button-capsule">
-                            <button id = "apaga-tudo" class="positivo">Limpar tarefas</button>
-                        </div>
-                        <div class="button-capsule">
-                            <button id = "remover-finalizados" class="negativo">Remover finalizados</button>
-                        </div>
-                        <div class="button-capsule salvar-tarefas">
-                            <button id = "salvar-tarefas" class="positivo">Salvar tarefas</button>
-                        </div>
-                        <div class="button-capsule">
-                            <button id = "remover-selecionado" class="negativo">Remover item selecionado</button>
-                        </div>
-                    </div>
+            </div>
+            <ol id = "lista-tarefas"></ol>
+            <br>
+            <div class="bottom">
+                <div>
+                    <button id = "apaga-tudo" class="dark">Limpar tarefas</button>
                 </div>
-            </section>
+                <div>
+                    <button id = "remover-finalizados" class="light">Remover finalizados</button>
+                </div>
+                <div class="salvar-tarefas">
+                    <button id = "salvar-tarefas" class="dark">Salvar tarefas</button>
+                </div>
+                <div>
+                    <button id = "remover-selecionado" class="light">Remover item selecionado</button>
+                </div>
+            </div>
         </div>
     </main>
     <footer>
-        <br>
-        <p>Projeto de HTML, CSS e JavaScript desenvolvido por <a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" rel="external">Lucas Castanheira</a>, todos os direitos reservados.</p>
-      </footer>
+        <p>Projeto de HTML, CSS e JavaScript.</p>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>

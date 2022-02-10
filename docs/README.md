@@ -1,15 +1,52 @@
-
 # To-do List
-<h2>:brazil: Português</h2>
-<p id="pt">Projeto de HTML, CSS e JavaScript desenvolvido por mim (<a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" target="_blank" rel="external">Lucas Castanheira</a>) ao final do Bloco 5 do Módulo 1 do curso de Desenvolvimento Web da <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. Obtive aprovação com 100% dos requisitos obrigatórios e 85,71% levando em conta os requisitos opcionais.</p>
-<p>O projeto consistiu no desenvolvimento de uma página web dinâmica e interativa em que a pessoa usuária pode adicionar itens a uma lista de tarefas, marcá-los como concluídos ou excluí-los. Também é possível salvar para que ao acessar a página novamente, a lista esteja como foi deixada.</p>
-<p><a href="https://lucas-pcn.github.io/to-do-list/" target="_blank">Clique aqui</a> para conferir o resultado do projeto no navegador.</p>
 
-![My grade of the project - Minha nota no projeto](./toDoList.png)
+<h2>:brazil: Português :brazil:</h2>
 
-<h2 id="en">:us: English</h2>
-<p>Project of HTML, CSS, and JavaScript developed by me (<a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" rel="external">Lucas Castanheira</a>) at the end of the Unit 5 Module 1 of the Web Development course at <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>. I was approved with 100% of the mandatory and 85,71% consedering the optional requirements.</p>
-<p>We developed a dynamic and interactive web page with a to-do list application. The user can change the order of the list items, mark them as completed, or delete them. It's also possible to save the list, so when the user enters the page again, it is the same way as it was left.</p>
-<p><a href="https://lucas-pcn.github.io/to-do-list/" target="_blank">Click here</a> to check out the final version of the project on your browser.</p>
+<p>Projeto entregue durante o curso de desenvolvimento Web ministrado pela <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
 
-![My grade of the project - Minha nota no projeto](./toDoList.png)
+<p>Obtive a aprovação no projeto, completando 100% dos requisitos obrigatórios e 85,71% levando em conta os requisitos opcionais. Efetivando, assim, a conclusão do Bloco 5 (JavaScript: DOM, Eventos e Web Storage) referente ao Módulo 1 (Fundamentos do Desenvolvimento Web).</p>
+
+![Minha nota no projeto](./toDoList.png)
+
+<p>Descrição:</p>
+
+<p>O projeto tinha como objetivo desenvolver uma lista de tarefas usando HTML, CSS e JavaScript.</p>
+
+<p>Habilidades desenvolvidas</p>
+<ol>
+<li>Manipular CSS</li>
+<li>Manipular JavaScript</li>
+</ol>
+
+<p>Link para conferência: https://lucas-pcn.github.io/to-do-list/</p>
+
+<p><a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" targe="_blank" rel="nofollow">Meu Linkedin</a>.</p>
+
+![Imagem do site](./previaSite.png)
+
+<br>
+
+<h2>:us: English :us:</h2>
+
+<p>Project delivered during the Web development course taught by <a href="https://www.betrybe.com" targe="_blank" rel="nofollow">Trybe</a>.</p>
+
+<p>I passed the project, completing 100% of mandatory and optional requirements. Thus, completing Block 5 (JavaScript: DOM, Events and Web Storage) referring to Module 1 (Fundamentals of Web Development).</p>
+
+![My grade](./toDoList.png)
+
+<p>Description:</p>
+
+<p>The project aimed to develop a to-do list using HTML, CSS and JavaScript.</p>
+
+<p>Developed skills</p>
+<ol>
+<li>Manipulate CSS</li>
+<li>Manipulate JavaScript</li>
+</ol>
+
+<p>Conference link: https://lucas-pcn.github.io/to-do-list/</p>
+
+<p><a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" targe="_blank" rel="nofollow">My Linkedin</a>.</p>
+
+![Imagem do site](./previaSite.png)
+
